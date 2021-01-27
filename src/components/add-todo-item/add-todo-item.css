@@ -1,4 +1,7 @@
 .add-todo-item {
-    float: right;
     margin: 10px 0px 0px;
+}
+
+.add-todo-item input {
+    margin: 0px 3px 0px 0px;
 }
